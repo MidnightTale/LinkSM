@@ -1,0 +1,33 @@
+links:
+  homepage:
+    name: "Homepage"
+    url: "https://hynse.net"
+    color: "#FFD700"
+  wiki:
+    name: "Wiki"
+    url: "https://wiki.hynse.net"
+    color: "#00FFFF"
+  maps:
+    name: "Maps"
+    url: "https://map.hynse.net"
+    color: "#00FF00"
+  discord:
+    name: "Discord"
+    url: "https://discord.hynse.net"
+    color: "#7289DA"
+  youtube:
+    name: "YouTube"
+    url: "https://www.youtube.com/@hynsenetwork"
+    color: "#FF0000"
+  twitter:
+    name: "Twitter"
+    url: "https://twitter.com/hynsenetwork"
+    color: "#55ACEE"
+  kofi:
+    name: "Ko-fi"
+    url: "https://ko-fi.com/midnighttale"
+    color: "#FFA500"
+  ads:
+    name: "(Ads) ร้านปั้มไลค์ ผู้ติดตาม ฟอลโล่อัพ"
+    url: "https://kiwiy.net/c/midnight_tale"
+    color: "#FFC0CB"
